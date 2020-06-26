@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<cameras>
+  <camera id="3" type="v30">
+    <login ip="192.168.1.13" port="8001" user="admin" passwd="ht123456">
+    </login>
+    <play_setting channel="1" stream="1" protocol="4" block="0" buffer="50">
+    </play_setting>
+  </camera>
+  <camera id="4" type="v30">
+    <login ip="192.168.1.14" port="8002" user="admin" passwd="ht123456">
+    </login>
+    <play_setting channel="1" stream="0" protocol="4" block="0" buffer="50">
+    </play_setting>
+  </camera>
+</cameras>

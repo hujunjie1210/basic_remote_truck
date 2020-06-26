@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basic_remote_truck", "basic_remote_truck\basic_remote_truck.csproj", "{2B3CA852-1E3D-411C-8C6F-B85BD494D0DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B3CA852-1E3D-411C-8C6F-B85BD494D0DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B3CA852-1E3D-411C-8C6F-B85BD494D0DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B3CA852-1E3D-411C-8C6F-B85BD494D0DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B3CA852-1E3D-411C-8C6F-B85BD494D0DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F401598-EDB7-4E70-9DFE-163E44A8FEFF}
+	EndGlobalSection
+EndGlobal

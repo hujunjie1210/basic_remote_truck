@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<cars>
+  <car id="1" ip="192.168.1.164" port="8110" port_rec="8115" name="一号车">
+  </car>
+  <car id="2" ip="192.168.1.164" port="8210" port_rec="8215" name="二号车">
+  </car>
+  <car id="3" ip="192.168.1.164" port="8310" port_rec="8315" name="三号车">
+  </car>
+</cars>
